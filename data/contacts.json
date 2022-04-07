@@ -1,16 +1,1 @@
-[
-    {
-        "nama": "irwan",
-        "email": "irwan@irwan.com",
-        "noHP": "123"
-    },
-    {
-        "nama": "rama",
-        "noHP": "123"
-    },
-    {
-        "nama": "erik",
-        "email": "err@irw.com",
-        "noHP": "0812345678"
-    }
-]
+[{"nama":"irwan","email":"irwan@irwan.com","noHP":"123"},{"nama":"rama","noHP":"123"}]
